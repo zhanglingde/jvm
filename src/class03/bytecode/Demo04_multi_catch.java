@@ -1,4 +1,4 @@
-package class03;
+package class03.bytecode;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

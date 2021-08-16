@@ -1,4 +1,4 @@
-package class03;
+package class03.bytecode;
 
 /**
  * 构造方法 <cinit>()V
